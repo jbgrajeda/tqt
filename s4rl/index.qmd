@@ -1,0 +1,193 @@
+---
+title: "Taller de Metodología de Investigación 1"
+subtitle: "SOBRE LA REVISIÓN DE LITERATURA"
+format:
+    revealjs:
+        center: true
+        title-slide-attributes: 
+          data-background-image: "images/fn.png"
+          data-background-size: cover
+          data-background-opacity: 100%
+        theme: black
+        transition: zoom
+        css:
+            - fondo.css
+---
+
+
+## ¿Qué es una revisión de literatura?
+
+- **Definición**: Es el proceso de recopilar, evaluar y sintetizar la información existente sobre un tema específico.
+- **Propósito**: Proporcionar una visión general del conocimiento actual y destacar áreas de consenso, controversia y vacíos de investigación.
+
+---
+
+## Objetivos de la revisión de literatura
+
+- **Identificar** temas clave, teorías y métodos en el área de estudio.
+- **Evaluar** la calidad y relevancia de las investigaciones existentes.
+- **Sintetizar** los hallazgos para establecer una base sólida para tu propia investigación.
+- **Comparar y contrastar** diferentes enfoques y puntos de vista.
+
+---
+
+## ¿Qué buscar en los documentos?
+
+- **Teorías principales**: ¿Qué teorías fundamentan el estudio? ¿Cómo se relacionan con tu tema? (Conceptos centrales)
+- **Metodología**: ¿Qué métodos se utilizan? ¿Son apropiados y fiables? (¿cómo se recogieron los datos?)
+
+---
+
+## ¿Qué buscar en los documentos? (cont.)
+
+
+- **Resultados clave**: ¿Cuáles son los hallazgos principales? ¿Cómo contribuyen al campo de conocimiento?
+- **Limitaciones**: ¿Qué limitaciones se reconocen? ¿Qué aspectos quedan sin explorar?
+- **Perspectivas futuras**: ¿Qué sugieren los autores para investigaciones futuras?
+
+---
+
+## ¿Cómo evaluar la calidad de los estudios revisados?
+
+- **Relevancia**: ¿Es pertinente para tu investigación?
+- **Autoridad**: ¿Quién es el autor? ¿Tiene experiencia y credibilidad en el campo?
+- **Objetividad**: ¿El estudio está sesgado o presenta una visión equilibrada?
+- **Recencia**: ¿Cuándo se publicó? ¿Es relevante en el contexto actual?
+- **Rigor metodológico**: ¿El estudio sigue un diseño y método sólidos?
+
+---
+
+## Comparación entre documentos
+
+- **Temas comunes y diferencias**: Identifica similitudes y diferencias clave en los enfoques, teorías y resultados.
+- **Contraste de metodologías**: Compara cómo diferentes estudios abordan el mismo problema con diferentes métodos.
+
+
+---
+
+## Comparación entre documentos (cont.)
+
+- **Evaluación crítica**: Analiza las fortalezas y debilidades de los estudios comparados.
+- **Relaciones entre estudios**: Determina cómo se relacionan entre sí los estudios revisados, si se apoyan o si presentan puntos de vista opuestos.
+
+---
+
+## Organización de la revisión de literatura
+
+- **Agrupar por temas**: Organiza los estudios revisados por temas o subtemas.
+- **Orden cronológico**: Muestra la evolución de las ideas a lo largo del tiempo.
+- **Por metodología**: Clasifica los estudios según los métodos utilizados.
+- **Por teoría**: Agrupa los estudios según las teorías que sustentan.
+
+---
+
+## Consejos prácticos
+
+- **Mantén un registro**: Usa gestores de referencias como Zotero o Mendeley para organizar las fuentes.
+- **Sé sistemático**: Lleva un enfoque metódico para asegurarte de que no omites estudios importantes.
+- **Sé crítico**: No te limites a resumir; analiza y cuestiona lo que lees.
+
+---
+
+## Conclusión
+
+- **Importancia de la revisión de literatura**: Es fundamental para situar tu investigación en el contexto adecuado.
+- **Desarrollo de habilidades críticas**: Te permite desarrollar un ojo crítico para evaluar la calidad de los estudios.
+- **Base para tu investigación**: Proporciona la base sobre la cual construirás tu trabajo.
+
+---
+
+## Preguntas
+
+- ¿Tienes dudas sobre algún aspecto de la revisión de literatura?
+- ¿Algún documento te parece difícil de evaluar o comparar?
+
+---
+
+## Referencias
+
+- Hernández Sampieri, R., Fernández Collado, C., & Baptista Lucio, P. (2014). *Metodología de la investigación* (6ª ed.). McGraw-Hill.
+- Creswell, J. W. (2014). *Research design: Qualitative, quantitative, and mixed methods approaches* (4th ed.). SAGE Publications.
+
+---
+
+## PROCEDIMIENTOS {background-image="images/fondo.png"}
+
+> 1. Recopilar documentos sobre el tema de interés
+> 2. Registrar las referencias en un gestor bibliográfico
+> 3. Hacer la lectura sistemática correspondiente en cada documento. Estos significa leer, subrayar, resaltar, tomar apuntes y hacer cualquierotra acción para extraer la información más importante de cada documento.
+
+
+## PROCEDIMIENTOS {background-image="images/fondo.png"}
+
+> - **Dependiendo de la habilidad que se tenga, el paso 3 y 4 pueden irse haciendo al mismo tiempo.**
+
+
+> 4. Registrar TODA la información extraida de los documentos
+> 5. Analizar con los distintos aspectos de comparación y
+> 6. Elaborar un informe o resumen general de los hallazgos
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const synth = window.speechSynthesis;
+        let utterance;
+        let speaking = false;
+        let paused = false;
+
+        const readIncrementalContent = (element) => {
+            if (utterance && synth.speaking) {
+                synth.cancel();
+            }
+            let textToRead = element.textContent;
+
+            if (textToRead.trim() !== '') {
+                utterance = new SpeechSynthesisUtterance(textToRead);
+                synth.speak(utterance);
+            }
+        };
+
+        const readCurrentSlide = () => {
+            if (utterance && synth.speaking) {
+                synth.cancel();
+            }
+            const currentSlide = document.querySelector('.present');
+            const visibleElements = currentSlide.querySelectorAll('h1, h2, h3, h4, h5, h6, p, li:not([aria-hidden="true"]):not(.fragment)');
+            let textToRead = '';
+
+            visibleElements.forEach((el) => {
+                if (getComputedStyle(el).display !== 'none') {
+                    textToRead += el.textContent + ' ';
+                }
+            });
+
+            if (textToRead.trim() !== '') {
+                utterance = new SpeechSynthesisUtterance(textToRead);
+                synth.speak(utterance);
+            }
+        };
+
+        document.addEventListener('keydown', (event) => {
+            if (event.key.toLowerCase() === 'q') {
+                if (paused) {
+                    synth.resume();
+                } else {
+                    synth.pause();
+                }
+                paused = !paused;
+                speaking = synth.speaking;
+            }
+        });
+
+        Reveal.on('slidechanged', (event) => {
+            readCurrentSlide();
+        });
+
+        Reveal.on('fragmentshown', (event) => {
+            readIncrementalContent(event.fragment);
+        });
+
+        // Initialize Reveal.js
+        Reveal.initialize();
+    });
+</script>

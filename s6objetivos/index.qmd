@@ -1,0 +1,185 @@
+---
+title: "Taller de Metodología de la Investigación I"
+subtitle: "Elaboración de Objetivos de Investigación "
+format:
+    revealjs:
+        center: true
+        title-slide-attributes: 
+          data-background-image: "images/fn.png"
+          data-background-size: cover
+          data-background-opacity: 100%
+        theme: black
+        transition: zoom
+        incremental: true
+        css:
+          - fondo.css
+---
+
+
+## Introducción
+
+- En una investigación cuantitativa, los objetivos son esenciales para guiar el proceso de recolección y análisis de datos. 
+- Estos objetivos definen **qué se quiere lograr** y **cómo se espera hacerlo**.
+
+---
+
+## ¿Qué son los objetivos de investigación?
+
+- Los **objetivos de investigación** son declaraciones claras y precisas de lo que se espera lograr con el estudio.
+- Orientan todas las etapas de la investigación.
+- **Verbos clave**: describir, determinar, comparar, evaluar, relacionar.
+
+---
+
+## Importancia de los objetivos de investigación
+
+- Proveen **dirección clara** a la investigación.
+- Permiten **evaluar el alcance** del estudio.
+- Ayudan a formular las **preguntas de investigación** y guían la metodología.
+
+---
+
+## Características de los objetivos
+
+1. **Claridad**: Deben ser comprensibles y específicos.
+2. **Medibles**: Deben poder ser evaluados empíricamente.
+3. **Realistas**: Deben poder alcanzarse dentro de las limitaciones del estudio.
+4. **Pertinentes**: Deben estar alineados con el problema de investigación.
+
+
+## Tipos de objetivos {background-color="black"}
+
+### Objetivo general
+- Resume lo que se pretende lograr de forma amplia.
+- Ejemplo: **Determinar** la relación entre el nivel de actividad física y la calidad de vida en adultos mayores.
+
+
+## Tipos de objetivos (cont.)
+### Objetivos específicos
+- Detallan los aspectos particulares que se abordarán.
+- Ejemplos: 
+  - **Medir** la actividad física diaria en una muestra de 200 adultos mayores.
+  - **Evaluar** la calidad de vida a través de encuestas validadas.
+
+---
+
+## Estrategias para redactar objetivos
+
+1. Revisar el **planteamiento del problema**.
+2. Usar verbos de acción claros como: **analizar, evaluar, comparar, identificar, relacionar**.
+3. Asegurarse de que los objetivos sean **congruentes** entre sí.
+
+---
+
+## Ejemplo de objetivos
+
+Supongamos una investigación sobre la relación entre la motivación y el rendimiento académico.
+
+- **Objetivo general**: 
+  - **Determinar** si la motivación influye en el rendimiento académico de estudiantes universitarios.
+
+
+## Ejemplos de objetivos:
+
+- **Objetivos específicos**:
+  1. **Evaluar** el nivel de motivación en estudiantes de diferentes carreras.
+  2. **Comparar** el rendimiento académico entre estudiantes con altos y bajos niveles de motivación.
+  3. **Relacionar** la motivación con factores como el apoyo familiar y el ambiente de estudio.
+
+---
+
+## Relación entre objetivos y preguntas de investigación
+
+- Los **objetivos de investigación** se transforman en **preguntas** que guían el estudio.
+- Ejemplo: 
+  - Objetivo: Determinar si existe relación entre actividad física y calidad de vida.
+  - Pregunta: ¿Qué relación existe entre el nivel de actividad física y la calidad de vida en adultos mayores?
+
+---
+
+## Errores comunes al formular objetivos
+
+1. **Falta de claridad**: Objetivos ambiguos o vagos.
+2. **Objetivos irrelevantes**: No relacionados con el problema central.
+3. **Objetivos no medibles**: No se pueden evaluar de forma cuantitativa.
+
+---
+
+## Conclusión
+
+- Los objetivos de investigación cuantitativa son el **núcleo** del estudio.
+- **Redactar objetivos claros, específicos y medibles** es clave para el éxito de la investigación.
+
+---
+
+## Referencias
+
+- Hernández-Sampieri, R., & Mendoza, C. P. (2018). *Metodología de la investigación: Las rutas cuantitativa, cualitativa y mixta* (7ma ed.). McGraw-Hill Education.
+- Kerlinger, F. N., & Lee, H. B. (2002). *Investigación del comportamiento: Métodos de investigación en ciencias sociales*. McGraw-Hill.
+
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const synth = window.speechSynthesis;
+        let utterance;
+        let speaking = false;
+        let paused = false;
+
+        const readIncrementalContent = (element) => {
+            if (utterance && synth.speaking) {
+                synth.cancel();
+            }
+            let textToRead = element.textContent;
+
+            if (textToRead.trim() !== '') {
+                utterance = new SpeechSynthesisUtterance(textToRead);
+                synth.speak(utterance);
+            }
+        };
+
+        const readCurrentSlide = () => {
+            if (utterance && synth.speaking) {
+                synth.cancel();
+            }
+            const currentSlide = document.querySelector('.present');
+            const visibleElements = currentSlide.querySelectorAll('h1, h2, h3, h4, h5, h6, p, li:not([aria-hidden="true"]):not(.fragment)');
+            let textToRead = '';
+
+            visibleElements.forEach((el) => {
+                if (getComputedStyle(el).display !== 'none') {
+                    textToRead += el.textContent + ' ';
+                }
+            });
+
+            if (textToRead.trim() !== '') {
+                utterance = new SpeechSynthesisUtterance(textToRead);
+                synth.speak(utterance);
+            }
+        };
+
+        document.addEventListener('keydown', (event) => {
+            if (event.key.toLowerCase() === 'q') {
+                if (paused) {
+                    synth.resume();
+                } else {
+                    synth.pause();
+                }
+                paused = !paused;
+                speaking = synth.speaking;
+            }
+        });
+
+        Reveal.on('slidechanged', (event) => {
+            readCurrentSlide();
+        });
+
+        Reveal.on('fragmentshown', (event) => {
+            readIncrementalContent(event.fragment);
+        });
+
+        // Initialize Reveal.js
+        Reveal.initialize();
+    });
+</script>
+```

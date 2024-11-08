@@ -1,0 +1,90 @@
+---
+title: "Primera Reunión Ordinaria"
+subtitle: "ACADEMIA DE EPISTEMOLOGÍA \n Y METODOLOGÍA DE LA INVESTIGACIÓN"
+author: "11 de octubre de 2024"
+format:
+    revealjs:
+        center: true
+        title-slide-attributes: 
+          data-background-image: "images/fn.png"
+          data-background-size: cover
+          data-background-opacity: 100%
+        theme: black
+        transition: zoom
+        css:
+            - fondo.css
+---
+
+## Orden del día
+
+1. Control de asistencia
+2. Lectura de la última acta
+3. Designación de secretario/a de la academia
+4. Presentación del plan de trabajo
+5. Asuntos generales
+6. Cierre de la sesión
+
+---
+
+## 1. Control de asistencia
+
+- Registro de los integrantes presentes en la sesión en el Chat de la sesión.
+
+---
+
+## 2. Lectura de la última acta
+
+- Lectura y aprobación del acta de la última sesión..
+
+---
+
+## 3. Designación de secretario/a
+
+- Propuesta y elección de un nuevo secretario/a de la academia. Se solicitan propuestas o autopropuestas y en su caso la votación o anuencia del pleno.
+
+---
+
+## 4. Presentación del plan de trabajo
+
+- Exposición del plan de trabajo para el próximo ciclo académico.
+- Discusión de las metas y actividades clave.
+
+---
+
+## Plan de trabajo
+
+Se plantean actividades para el corto plazo
+1. Conclusión con el proceso de revisión y actualización de UA
+2. Lectura y revisión del Reglamento de Academias
+  
+---
+
+## Metas
+  
+- Concluir en 60 días con la revisión y actualización de los 3 programas faltantes
+- Emisión de observaciones y acuerdos para la propuesta de Reglamento de Academias
+
+---
+
+## Estrategias 
++ Para los programas se asignación de un comité de pares que acompañe el proceso de alineación de competencias/contenidos/evaluación de los programas en revisión
++ Para el Reglamento de Academias, se proporcionará el documento en cuestión a las y los integrantes de la Academia y se dará tiempo para su lectura y observaciones, mismas que se integrarán de forma econ+omica y se expondrán en la siguiente reunión de Academia.
+
+---
+
+## 5. Asuntos generales
+
+- Espacio abierto para tratar cualquier otro tema relevante.
+
+---
+
+## 6. Cierre de la sesión
+
+- Conclusión y agradecimientos.
+- Confirmación de la fecha para la próxima reunión.
+
+---
+
+
+
+

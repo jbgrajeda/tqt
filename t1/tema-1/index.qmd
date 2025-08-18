@@ -1,0 +1,375 @@
+---
+format:
+  revealjs:
+    center: true
+    css: [fondo.css]
+    incremental: true
+    theme: night
+    title-slide-attributes:
+      data-background-image: "images/fn.png"
+      data-background-size: "cover"
+      data-background-opacity: "1.0"
+---
+## {.slide background-image="images/fn.png" background-size="cover" background-position="center"}
+
+---
+
+### Concepción de la Idea de Investigación
+#### Paradigmas y Enfoque Cuantitativo
+---
+
+### ¿Qué es la Investigación?
+
+* La investigación es un **conjunto de procesos sistemáticos, críticos y empíricos** que se aplican al estudio de un fenómeno o problema [1].
+* Su objetivo es **ampliar el conocimiento** sobre dicho fenómeno o problema [1].
+* Esta definición fundamental se aplica por igual a los enfoques **cuantitativo, cualitativo y mixto** [1].
+
+---
+
+### El Inicio de Toda Investigación
+
+* Toda investigación se inicia con una **idea** que se desarrolla paulatinamente [2].
+* Para comenzar, es fundamental conocer las **rutas** construidas por las comunidades científicas para estudiar cualquier tema o fenómeno [2].
+* Existen **tres rutas fundamentales**: la cuantitativa, la cualitativa y la mixta [2].
+* **Todas son igualmente valiosas** y son los mejores métodos para investigar y generar conocimientos [3, 4].
+
+---
+
+### Paradigmas y Enfoques de Investigación
+
+* A lo largo de la historia del estudio del conocimiento, han surgido diversos **paradigmas** o corrientes de pensamiento sobre cómo indagar en los fenómenos del universo [5].
+* Algunos de estos paradigmas son: **el empirismo, el materialismo dialéctico, el positivismo, el constructivismo, el estructuralismo y el pragmatismo** [5].
+* Estos paradigmas dieron origen a los **tres enfoques** para investigar cualquier hecho o problema: cuantitativo, cualitativo y mixto [5].
+
+---
+
+### Evolución y Elección del Enfoque
+
+* Durante gran parte del siglo pasado, algunos investigadores consideraron que los enfoques cuantitativo y cualitativo eran antagónicos e incompatibles, haciendo impensable el enfoque mixto [6].
+* Actualmente, se concibe y acepta el enfoque mixto, reconociendo las **tres rutas como posibilidades válidas** [6].
+* **Esquema propuesto (más adecuado y realista)**:
+    * El **planteamiento del problema a investigar** es el punto de partida [7, 8].
+    * Este, junto con el **contexto** (conocimientos y creencias del investigador, recursos, lugar y tiempo), guía la elección del **enfoque (ruta)** más adecuado, considerando el **paradigma** que lo fundamenta [8].
+
+---
+
+### Interconexión de las Rutas
+
+* Las rutas de investigación **se entrelazan y comparten ciertas cuestiones**, no son "caminos completamente independientes" [9].
+    * *Ejemplo*: La estadística, asociada a la investigación cuantitativa, puede ser utilizada en algunos estudios cualitativos para profundizar análisis [9].
+* **Ninguna ruta es mejor que otra**; su idoneidad depende del **problema de investigación** y de los **conocimientos y entrenamiento del investigador** [10].
+* Los tres enfoques utilizan **procesos sistemáticos, reflexivos y empíricos** para generar conocimiento [8].
+
+---
+
+### Estrategias Comunes en la Generación de Conocimiento
+
+Todos los enfoques de investigación se valen de las siguientes estrategias para generar conocimiento:
+
+1.  **Observación y evaluación** de fenómenos [11].
+2.  **Establecimiento de suposiciones** como consecuencia de la observación y evaluación [11].
+3.  **Demostración del fundamento** de las suposiciones mediante análisis y pruebas [11].
+4.  **Propuesta de nuevas observaciones y evaluaciones** para consolidar, esclarecer, modificar o generar nuevas suposiciones [11].
+
+---
+
+### La Ruta Cuantitativa: Definición y Origen
+
+* El término **"cuantitativo"** (del latín *quantitas*) se vincula a **conteos numéricos y métodos matemáticos** [11].
+* Representa un **conjunto de procesos organizado de manera secuencial** para comprobar ciertas suposiciones [12].
+* En las ciencias sociales, su origen se atribuye a **Auguste Comte y Emile Durkheim**, quienes postularon la aplicación del "método científico" a los fenómenos sociales (corriente bautizada como **positivismo**) [13].
+
+---
+
+### ¿Cuándo es Apropiada la Ruta Cuantitativa?
+
+La ruta cuantitativa es particularmente apropiada cuando se busca:
+
+* **Estimar magnitudes** o la ocurrencia de los fenómenos [14].
+* **Probar hipótesis** [14].
+
+* **Ejemplos**:
+    * Determinar la prevalencia de una enfermedad y sus causas [14].
+    * Predecir resultados electorales [14].
+    * Comprobar la efectividad de dos métodos de enseñanza [14].
+
+---
+
+### Proceso Cuantitativo: Estructura y Rigor
+
+* El proceso cuantitativo es **riguroso** y sigue un **patrón predecible y estructurado** [12, 15].
+* Cada fase precede a la siguiente, y el orden es secuencial, aunque alguna etapa puede redefinirse [12].
+* Parte de una **idea que se delimita** [12].
+* Necesita un **planteamiento especificado y delimitado** [16].
+* Las decisiones críticas sobre los métodos se toman **antes de recolectar los datos**, guiadas por el **diseño de investigación** (el "mapa de la ruta") [12, 15].
+
+---
+
+### Fases Clave en la Concepción Cuantitativa (I)
+
+**1. Selección y Delimitación del Tema:**
+* La investigación parte de una **idea que se delimita** [12].
+* Un buen punto de partida es la **práctica profesional diaria** y la experiencia acumulada [17].
+* Consideraciones clave: ¿Es de **interés** el tema? ¿Existe **información accesible**? ¿Qué **resultados** se pueden obtener? [18].
+* Es crucial una buena **documentación** para definir el tema y el título preliminar [18].
+
+---
+
+### Fases Clave en la Concepción Cuantitativa (II)
+
+**2. Formulación del Título:**
+* Se propone un **título tentativo** que sea **claro, indicativo** del contenido, y debe **particularizarse, delimitarse y formularse** [17].
+* Se sugiere que el título incluya:
+    * La **variable(s) principal(es)** (lo que se investigará) [19].
+    * El **sujeto(s) a estudiar** (quiénes participarán) [19].
+    * El **diseño de la investigación** (qué estrategia se seguirá) [19].
+    * El **ámbito del estudio** (dónde se realizará) [19].
+    * El **período de tiempo** (cuándo se realizará, si es relevante) [20].
+
+---
+
+### Fases Clave en la Concepción Cuantitativa (III)
+
+**3. Planteamiento del Problema:**
+* El investigador plantea un **problema de estudio acotado** sobre el fenómeno de interés [21].
+* Sus preguntas de investigación versan sobre **cuestiones específicas** [21].
+
+---
+
+### Fases Clave en la Concepción Cuantitativa (IV)
+
+**4. Desarrollo del Marco Teórico e Hipótesis:**
+* Una vez planteado el problema, se realiza una **revisión de la literatura** (lo indagado previamente) [21].
+* Se construye un **marco o perspectiva teórica** que sustentará y guiará el estudio [12, 21].
+* De las preguntas de investigación se derivan **hipótesis** (suposiciones respaldadas por investigaciones anteriores y la teoría) [12, 21].
+* **Las hipótesis se generan ANTES de recolectar y analizar los datos** [22].
+
+---
+
+### Características Esenciales del Enfoque Cuantitativo (I)
+
+1.  **Búsqueda de la mayor objetividad posible**: El investigador debe evitar que sus sentimientos, creencias o tendencias influyan en los resultados [15].
+2.  **Patrón predecible y estructurado**: Las decisiones críticas sobre los métodos se toman antes de recolectar los datos, guiadas por el diseño (el "mapa") [15].
+3.  **Lógica o razonamiento deductivo**: Parte de la teoría, de la cual se derivan las hipótesis que se someterán a prueba. Va de lo general a lo particular [23].
+
+---
+
+### Características Esenciales del Enfoque Cuantitativo (II)
+
+4.  **Objetivo de generalización**: En la mayoría de los estudios, se busca generalizar los resultados de una muestra a un universo mayor (población) [24].
+5.  **Propósito**: Describir, explicar y predecir los fenómenos investigados, buscando regularidades y relaciones causales entre variables. La meta principal es la **prueba de hipótesis y la formulación y demostración de teorías** [24].
+6.  **Búsqueda de la realidad externa**: Se busca conocer o capturar la realidad tal y como es, o aproximarse lo mejor posible a ella. Las suposiciones deben ajustarse a la realidad [16].
+
+---
+
+### La Ruta Cuantitativa en Síntesis
+
+"Necesitamos un **lugar preciso** al cual arribar (planteamiento especificado y delimitado) y un **mapa preciso o GPS** (diseño acotado). Nuestro equipaje incluye **análisis estadístico** pues lidiaremos con números." [16]
+
+---
+
+### ¡Gracias!
+
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const synth = window.speechSynthesis;
+        let utterance;
+        let speaking = false;
+        let paused = false;
+
+        // --- Inicio del nuevo código para el botón ---
+        const fullscreenButton = document.createElement('button');
+        fullscreenButton.id = 'fullscreenButton';
+        fullscreenButton.textContent = 'Pantalla Completa';
+        fullscreenButton.style.cssText = `
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            z-index: 1000;
+            padding: 12px 20px;
+            background-color: #ff7300;
+            color: #ffffcc;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        `;
+        document.body.appendChild(fullscreenButton); // Agrega el botón al body
+        // --- Fin del nuevo código para el botón ---
+
+        // Función para leer contenido incremental (fragmentos)
+        const readIncrementalContent = (element) => {
+            if (utterance && synth.speaking) {
+                synth.cancel();
+            }
+            let textToRead = element.textContent;
+
+            if (textToRead.trim() !== '') {
+                utterance = new SpeechSynthesisUtterance(textToRead);
+
+                // Configuración de la voz (opcional)
+                const voices = synth.getVoices();
+                const voice = voices.find(v => v.lang === 'es-ES' || v.lang.startsWith('es-')); // Busca una voz en español
+                if (voice) {
+                    utterance.voice = voice;
+                }
+
+                utterance.volume = 1; // Volumen máximo
+                utterance.rate = 1;    // Velocidad normal
+                utterance.pitch = 1;    // Tono normal
+
+                synth.speak(utterance);
+            }
+        };
+
+        // Función para leer el contenido visible de la diapositiva actual
+        const readCurrentSlide = () => {
+            if (utterance && synth.speaking) {
+                synth.cancel();
+            }
+            const currentSlide = document.querySelector('.present');
+            const visibleElements = currentSlide.querySelectorAll('h1, h2, h3, h4, h5, h6, p, li:not([aria-hidden="true"]):not(.fragment)');
+            let textToRead = '';
+
+            visibleElements.forEach((el) => {
+                if (getComputedStyle(el).display !== 'none') {
+                    textToRead += el.textContent + ' ';
+                }
+            });
+
+            if (textToRead.trim() !== '') {
+                utterance = new SpeechSynthesisUtterance(textToRead);
+
+                // Configuración de la voz (opcional)
+                const voices = synth.getVoices();
+                const voice = voices.find(v => v.lang === 'es-ES' || v.lang.startsWith('es-')); // Busca una voz en español
+                if (voice) {
+                    utterance.voice = voice;
+                }
+
+                utterance.volume = 1; // Volumen máximo
+                utterance.rate = 1;    // Velocidad normal
+                utterance.pitch = 1;    // Tono normal
+
+                synth.speak(utterance);
+            }
+        };
+
+        // Controlar la reproducción con la tecla 'q'
+        document.addEventListener('keydown', (event) => {
+            if (event.key.toLowerCase() === 'q') {
+                if (paused) {
+                    synth.resume();
+                    paused = false;
+                } else {
+                    synth.pause();
+                    paused = true;
+                }
+            }
+        });
+
+        // Leer automáticamente al cambiar de diapositiva
+        Reveal.on('slidechanged', (event) => {
+            readCurrentSlide();
+        });
+
+        // Leer fragmentos cuando se muestren
+        Reveal.on('fragmentshown', (event) => {
+            readIncrementalContent(event.fragment);
+        });
+
+        // Controlar la reproducción con un botón (opcional)
+        const playButton = document.createElement('button');
+        playButton.textContent = 'Reproducir';
+        playButton.style.position = 'fixed';
+        playButton.style.bottom = '20px';
+        playButton.style.right = '20px';
+        playButton.style.zIndex = '1000';
+        playButton.style.padding = '10px 20px';
+        playButton.style.fontSize = '16px';
+        playButton.style.backgroundColor = '#007bff';
+        playButton.style.color = 'white';
+        playButton.style.border = 'none';
+        playButton.style.borderRadius = '5px';
+        playButton.style.cursor = 'pointer';
+        document.body.appendChild(playButton);
+
+        playButton.addEventListener('click', () => {
+            if (synth.speaking) {
+                synth.cancel();
+                playButton.textContent = 'Reproducir';
+            } else {
+                readCurrentSlide();
+                playButton.textContent = 'Detener';
+            }
+        });
+
+        // Inicializar reveal.js (si no está ya inicializado)
+        // Asegúrate de que esta línea esté presente para que Reveal.js funcione
+        Reveal.initialize();
+    });
+</script>
+
+<script>
+// La lógica del botón de pantalla completa se mantiene igual, pero ahora el botón se creará dinámicamente
+// y este script simplemente le asignará la funcionalidad.
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    const fullscreenButton = document.getElementById('fullscreenButton');
+
+    // Función para activar/desactivar pantalla completa
+    function toggleFullscreen() {
+        if (!document.fullscreenElement &&    // Standard property
+            !document.mozFullScreenElement && // Firefox
+            !document.webkitFullscreenElement && // Chrome, Safari and Opera
+            !document.msFullscreenElement) {  // IE/Edge
+            // Entrar en pantalla completa
+            if (document.documentElement.requestFullscreen) {
+                document.documentElement.requestFullscreen();
+            } else if (document.documentElement.mozRequestFullScreen) { /* Firefox */
+                document.documentElement.mozRequestFullScreen();
+            } else if (document.documentElement.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+                document.documentElement.webkitRequestFullscreen();
+            } else if (document.documentElement.msRequestFullscreen) { /* IE/Edge */
+                document.documentElement.msRequestFullscreen();
+            }
+        } else {
+            // Salir de pantalla completa
+            if (document.exitFullscreen) {
+                document.exitFullscreen();
+            } else if (document.mozCancelFullScreen) { /* Firefox */
+                document.mozCancelFullScreen();
+            } else if (document.documentElement.webkitExitFullscreen) { /* Chrome, Safari and Opera */
+                document.documentElement.webkitExitFullscreen();
+            } else if (document.msExitFullscreen) { /* IE/Edge */
+                document.documentElement.msExitFullscreen();
+            }
+        }
+    }
+
+    // Función para manejar el estado del botón al entrar/salir de pantalla completa
+    function handleFullscreenChange() {
+        if (document.fullscreenElement ||
+            document.mozFullScreenElement ||
+            document.webkitFullscreenElement ||
+            document.msFullscreenElement) {
+            // Estamos en pantalla completa, oculta el botón
+            fullscreenButton.style.display = 'none';
+        } else {
+            // No estamos en pantalla completa, muestra el botón
+            fullscreenButton.style.display = 'block';
+        }
+    }
+
+    // Asignar eventos solo si el botón existe (que lo hará si el script anterior se ejecutó)
+    if (fullscreenButton) {
+        fullscreenButton.addEventListener('click', toggleFullscreen);
+        document.addEventListener('fullscreenchange', handleFullscreenChange);
+        document.addEventListener('mozfullscreenchange', handleFullscreenChange);
+        document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
+        document.addEventListener('msfullscreenchange', handleFullscreenChange);
+    }
+});
+</script>

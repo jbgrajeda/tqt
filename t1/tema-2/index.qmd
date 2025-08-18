@@ -1,0 +1,418 @@
+---
+format:
+  revealjs:
+    center: true
+    css: [fondo.css]
+    incremental: true
+    theme: simple
+    title-slide-attributes:
+      data-background-image: "images/fn.png"
+      data-background-size: "cover"
+      data-background-opacity: "1.0"
+---
+
+##  {.slide background-image="images/fn.png" background-size="cover" background-position="center"}
+
+------------------------------------------------------------------------
+
+## Ruta de la sesión
+1. ¿Qué es una *fuente de ideas* y por qué importa?  
+2. Mapa de fuentes (principal)  
+3. Motores que disparan ideas  
+4. De la idea al problema cuantitativo  
+5. Criterios complementarios para priorizar  
+6. Plantillas y ejercicios  
+7. Checklist final
+
+---
+
+## ¿Qué entendemos por *fuentes de ideas*?
+> Orígenes diversos (vivencias, medios, teoría, entorno, tecnología, conversaciones, etc.) que **activan** preguntas y temas de estudio. La idea es el **punto de partida** de cualquier ruta.  
+:contentReference[oaicite:0]{index=0}
+
+---
+
+## Mapa general de fuentes (lectura principal)
+- **Necesidades y experiencias** (propias o de otras personas)  
+- **Materiales escritos**: libros, artículos científicos/divulgación, periódicos, tesis  
+- **Audiovisuales y radio/TV**  
+- **Internet**: páginas, foros, redes sociales  
+- **Teorías y desarrollos**: marcos, descubrimientos, tecnología  
+- **Interacciones sociales**: conversaciones, clases, observación de hechos  
+> Todas pueden activar ideas por separado o en conjunto.  
+:contentReference[oaicite:1]{index=1}
+
+---
+
+## Ejemplos de fuentes en acción (1/2)
+**Noticiario → violencia/terrorismo**  
+- La observación mediática detona curiosidad e ideas de estudio.  
+- Luego se afina conversando y revisando prensa/artículos.  
+:contentReference[oaicite:2]{index=2}
+
+**Navegación web → salud**  
+- Lectura sobre Alzheimer sugiere comparar tratamientos (eficacia).  
+:contentReference[oaicite:3]{index=3}
+
+---
+
+## Ejemplos de fuentes en acción (2/2)
+**Campañas políticas → comunicación**  
+- ¿La publicidad electoral influye en la intención de voto?  
+- Posible diseño: encuestas pre/post o correlacional.  
+:contentReference[oaicite:4]{index=4}
+
+**Experiencia cercana → duelo**  
+- Vivencia de viudez motiva estudio con enfoque psicológico.  
+:contentReference[oaicite:5]{index=5}
+
+---
+
+## Motores que disparan ideas
+- **Inspiración e imaginación**  
+- **Oportunidad** (acceso a datos/campo, ventanas temporales)  
+- **Huecos de conocimiento**  
+- **Conceptualización**  
+- **Necesidad de resolver una problemática**  
+:contentReference[oaicite:6]{index=6}
+
+---
+
+## Ideas: de lo general a lo específico
+> Las ideas iniciales suelen ser **demasiado generales**; requieren **precisión** para transformarse en un **planteamiento del problema** (especialmente en la ruta cuantitativa).  
+:contentReference[oaicite:7]{index=7}
+
+**Acciones clave**  
+1) Delimitar población, tiempo, espacio, variables  
+2) Formular **preguntas medibles**  
+3) Revisar **antecedentes**  
+4) Verificar **factibilidad y ética**  
+5) Esbozar **hipótesis** y relaciones
+
+---
+
+## Afinamiento: ejemplo (relaciones de pareja)
+**Idea inicial:** “¿Qué influye para mantener una relación satisfactoria?” (amplia/difusa)  
+**Afinar hacia cuantitativo:**  
+- Contexto: novios formales (18–25)  
+- Variables: similitud en valores (escala X), satisfacción (escala Y)  
+- Pregunta: ¿La similitud en valores **predice** la satisfacción?  
+:contentReference[oaicite:8]{index=8}
+
+---
+
+## Convertir fuentes en variables (1/2)
+**Medios / noticias**  
+- Exposición: min/semana, tipo/tono de contenido  
+- Efectos: actitudes, conductas → escalas válidas  
+**Experiencias**  
+- Fenómeno (p. ej., estrés laboral) → instrumentos estandarizados (PSS, JCQ)
+
+---
+
+## Convertir fuentes en variables (2/2)
+**Teoría**  
+- Extraer constructos, definir **indicadores**  
+- Plantear relaciones direccionales (**hipótesis**)  
+**Diseño**  
+- Descriptivo, correlacional, explicativo; medición repetible y válida
+
+---
+
+## Revisión de antecedentes: ¿por qué?
+- Evita duplicar temas *saturados* sin aporte novedoso  
+- **Estructura** la idea y orienta el abordaje  
+- Ayuda a elegir **perspectiva principal** (psicológica, sociológica, comunicacional, etc.)  
+:contentReference[oaicite:9]{index=9} :contentReference[oaicite:10]{index=10}
+
+---
+
+## Criterios complementarios para priorizar ideas (Rojas Soriano)
+- **Magnitud y trascendencia** del problema  
+- **Vulnerabilidad** (susceptible de cambio)  
+- **Factibilidad** (tiempo, acceso, recursos)  
+- **Proyección social** (utilidad para decisiones/políticas)  
+:contentReference[oaicite:11]{index=11}
+
+---
+
+## Errores frecuentes al aprovechar fuentes
+- Temas **desligados** de la realidad específica  
+- Seguir **modas** ampliamente exploradas sin novedad  
+- **Copiar** modelos externos sin adaptación contextual  
+- Técnicas **novedosas** pero poco pertinentes  
+- Uso **inadecuado** de instrumentos → datos sesgados  
+:contentReference[oaicite:12]{index=12}
+
+---
+
+## Flujo de trabajo: de la fuente al problema cuantitativo
+1. Detecta la **fuente** (evento, teoría, experiencia, dato)  
+2. Formula **preguntas iniciales** (qué, quién, dónde, cuándo, cuánto)  
+3. Revisa **antecedentes** y medidas disponibles  
+4. Define **variables**, indicadores y población  
+5. Selecciona **diseño** (descriptivo/correlacional/explicativo)  
+6. Asegura **viabilidad** y **ética**
+
+---
+
+## Plantilla rápida (1): del tema a la pregunta
+- **Tema:** ___________________________  
+- **Contexto (P/T/E):** población ___ / tiempo ___ / espacio ___  
+- **Variables clave:** V1 ___ (indicador ___), V2 ___ (indicador ___)  
+- **Pregunta:** En _[población]_, ¿cómo se relaciona **V1** con **V2** durante _[tiempo]_ en _[lugar]_?
+
+---
+
+## Plantilla rápida (2): hipótesis y operacionalización
+- **Hipótesis:** Si **V1** ↑, entonces **V2** ↑/↓, controlando por ___  
+- **Medición:** instrumentos, escalas, confiabilidad, validez  
+- **Muestra:** tamaño, muestreo, criterios de inclusión/exclusión  
+- **Análisis:** t, χ², r/ρ, regresión; supuestos y poder estadístico
+
+---
+
+## Ejercicio guiado (1): noticia → problema
+1. Elige una **noticia** reciente del área que te interesa  
+2. Resume el fenómeno en **1–2 líneas**  
+3. Define una variable de **exposición** y una de **efecto**  
+4. Redacta **pregunta** e **hipótesis** medibles  
+5. Propón diseño breve (fuente de datos, muestra, instrumento)
+
+---
+
+## Ejercicio guiado (2): experiencia → problema
+1. Piensa en una **vivencia** observada (propia o cercana)  
+2. Identifica el **constructo** (p. ej., estrés, adherencia, aprendizaje)  
+3. Busca un **instrumento válido** (nombre de escala) y un desenlace  
+4. Plantea **pregunta**, **hipótesis** y **población**  
+5. Lista **2 covariables** de control
+
+---
+
+## Checklist final
+- La idea proviene de una **fuente clara y pertinente**  
+- Pregunta **específica y medible** (quién, qué, cuándo, dónde, cuánto)  
+- **Variables** definidas y **operacionalizadas**  
+- **Viabilidad** (acceso, tiempo, ética, recursos) confirmada  
+- **Novedad** o contexto distinto; evita “modas”  
+- **Relevancia y proyección social** justificadas
+
+---
+
+## Cierre
+¡Listo para formular tu problema!  
+Usa plantillas, flujo y criterios para pasar de la **idea** a un **problema cuantitativo** claro y viable.
+
+---
+
+## Referencias / fuentes (selección)
+- Fuentes de ideas y ejemplos desde la lectura principal. :contentReference[oaicite:13]{index=13} :contentReference[oaicite:14]{index=14}  
+- Motores de ideas. :contentReference[oaicite:15]{index=15}  
+- Necesidad de afinar ideas en ruta cuantitativa y ejemplo de pareja. :contentReference[oaicite:16]{index=16}  
+- Criterios de priorización y errores comunes (lectura complementaria). :contentReference[oaicite:17]{index=17} :contentReference[oaicite:18]{index=18}
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const synth = window.speechSynthesis;
+        let utterance;
+        let speaking = false;
+        let paused = false;
+
+        // --- Inicio del nuevo código para el botón ---
+        const fullscreenButton = document.createElement('button');
+        fullscreenButton.id = 'fullscreenButton';
+        fullscreenButton.textContent = 'Pantalla Completa';
+        fullscreenButton.style.cssText = `
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            z-index: 1000;
+            padding: 12px 20px;
+            background-color: #ff7300;
+            color: #ffffcc;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        `;
+        document.body.appendChild(fullscreenButton); // Agrega el botón al body
+        // --- Fin del nuevo código para el botón ---
+
+        // Función para leer contenido incremental (fragmentos)
+        const readIncrementalContent = (element) => {
+            if (utterance && synth.speaking) {
+                synth.cancel();
+            }
+            let textToRead = element.textContent;
+
+            if (textToRead.trim() !== '') {
+                utterance = new SpeechSynthesisUtterance(textToRead);
+
+                // Configuración de la voz (opcional)
+                const voices = synth.getVoices();
+                const voice = voices.find(v => v.lang === 'es-ES' || v.lang.startsWith('es-')); // Busca una voz en español
+                if (voice) {
+                    utterance.voice = voice;
+                }
+
+                utterance.volume = 1; // Volumen máximo
+                utterance.rate = 1;    // Velocidad normal
+                utterance.pitch = 1;   // Tono normal
+
+                synth.speak(utterance);
+            }
+        };
+
+        // Función para leer el contenido visible de la diapositiva actual
+        const readCurrentSlide = () => {
+            if (utterance && synth.speaking) {
+                synth.cancel();
+            }
+            const currentSlide = document.querySelector('.present');
+            const visibleElements = currentSlide.querySelectorAll('h1, h2, h3, h4, h5, h6, p, li:not([aria-hidden="true"]):not(.fragment)');
+            let textToRead = '';
+
+            visibleElements.forEach((el) => {
+                if (getComputedStyle(el).display !== 'none') {
+                    textToRead += el.textContent + ' ';
+                }
+            });
+
+            if (textToRead.trim() !== '') {
+                utterance = new SpeechSynthesisUtterance(textToRead);
+
+                // Configuración de la voz (opcional)
+                const voices = synth.getVoices();
+                const voice = voices.find(v => v.lang === 'es-ES' || v.lang.startsWith('es-')); // Busca una voz en español
+                if (voice) {
+                    utterance.voice = voice;
+                }
+
+                utterance.volume = 1; // Volumen máximo
+                utterance.rate = 1;    // Velocidad normal
+                utterance.pitch = 1;   // Tono normal
+
+                synth.speak(utterance);
+            }
+        };
+
+        // Controlar la reproducción con la tecla 'q'
+        document.addEventListener('keydown', (event) => {
+            if (event.key.toLowerCase() === 'q') {
+                if (paused) {
+                    synth.resume();
+                    paused = false;
+                } else {
+                    synth.pause();
+                    paused = true;
+                }
+            }
+        });
+
+        // Leer automáticamente al cambiar de diapositiva
+        Reveal.on('slidechanged', (event) => {
+            readCurrentSlide();
+        });
+
+        // Leer fragmentos cuando se muestren
+        Reveal.on('fragmentshown', (event) => {
+            readIncrementalContent(event.fragment);
+        });
+
+        // Controlar la reproducción con un botón (opcional)
+        const playButton = document.createElement('button');
+        playButton.textContent = 'Reproducir';
+        playButton.style.position = 'fixed';
+        playButton.style.bottom = '20px';
+        playButton.style.right = '20px';
+        playButton.style.zIndex = '1000';
+        playButton.style.padding = '10px 20px';
+        playButton.style.fontSize = '16px';
+        playButton.style.backgroundColor = '#007bff';
+        playButton.style.color = 'white';
+        playButton.style.border = 'none';
+        playButton.style.borderRadius = '5px';
+        playButton.style.cursor = 'pointer';
+        document.body.appendChild(playButton);
+
+        playButton.addEventListener('click', () => {
+            if (synth.speaking) {
+                synth.cancel();
+                playButton.textContent = 'Reproducir';
+            } else {
+                readCurrentSlide();
+                playButton.textContent = 'Detener';
+            }
+        });
+
+        // Inicializar reveal.js (si no está ya inicializado)
+        // Asegúrate de que esta línea esté presente para que Reveal.js funcione
+        Reveal.initialize();
+    });
+</script>
+
+<script>
+// La lógica del botón de pantalla completa se mantiene igual, pero ahora el botón se creará dinámicamente
+// y este script simplemente le asignará la funcionalidad.
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    const fullscreenButton = document.getElementById('fullscreenButton');
+
+    // Función para activar/desactivar pantalla completa
+    function toggleFullscreen() {
+        if (!document.fullscreenElement &&    // Standard property
+            !document.mozFullScreenElement && // Firefox
+            !document.webkitFullscreenElement && // Chrome, Safari and Opera
+            !document.msFullscreenElement) {  // IE/Edge
+            // Entrar en pantalla completa
+            if (document.documentElement.requestFullscreen) {
+                document.documentElement.requestFullscreen();
+            } else if (document.documentElement.mozRequestFullScreen) { /* Firefox */
+                document.documentElement.mozRequestFullScreen();
+            } else if (document.documentElement.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+                document.documentElement.webkitRequestFullscreen();
+            } else if (document.documentElement.msRequestFullscreen) { /* IE/Edge */
+                document.documentElement.msRequestFullscreen();
+            }
+        } else {
+            // Salir de pantalla completa
+            if (document.exitFullscreen) {
+                document.exitFullscreen();
+            } else if (document.mozCancelFullScreen) { /* Firefox */
+                document.mozCancelFullScreen();
+            } else if (document.webkitExitFullscreen) { /* Chrome, Safari and Opera */
+                document.webkitExitFullscreen();
+            } else if (document.msExitFullscreen) { /* IE/Edge */
+                document.documentElement.msExitFullscreen();
+            }
+        }
+    }
+
+    // Función para manejar el estado del botón al entrar/salir de pantalla completa
+    function handleFullscreenChange() {
+        if (document.fullscreenElement ||
+            document.mozFullScreenElement ||
+            document.webkitFullscreenElement ||
+            document.msFullscreenElement) {
+            // Estamos en pantalla completa, oculta el botón
+            fullscreenButton.style.display = 'none';
+        } else {
+            // No estamos en pantalla completa, muestra el botón
+            fullscreenButton.style.display = 'block';
+        }
+    }
+
+    // Asignar eventos solo si el botón existe (que lo hará si el script anterior se ejecutó)
+    if (fullscreenButton) {
+        fullscreenButton.addEventListener('click', toggleFullscreen);
+        document.addEventListener('fullscreenchange', handleFullscreenChange);
+        document.addEventListener('mozfullscreenchange', handleFullscreenChange);
+        document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
+        document.addEventListener('msfullscreenchange', handleFullscreenChange);
+    }
+});
+</script>
